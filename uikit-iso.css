@@ -2488,10 +2488,10 @@
   outline: 0;
 }
 .uikit-iso .uk-navbar-nav > li > a:active {
-  color: #333;
+  color: #0059af;
 }
 .uikit-iso .uk-navbar-nav > li.uk-active > a {
-  color: #333;
+  color: #0059af;
 }
 .uikit-iso .uk-navbar-item {
   color: #666;
