@@ -1172,13 +1172,13 @@
 .uikit-iso .uk-button-default:focus,
 .uikit-iso .uk-button-default:hover {
   background-color: transparent;
-  color: #333;
+  color: #c4820e;
   border-color: #b2b2b2;
 }
 .uikit-iso .uk-button-default.uk-active,
 .uikit-iso .uk-button-default:active {
   background-color: transparent;
-  color: #333;
+  color: #c4820e;
   border-color: #999;
 }
 .uikit-iso .uk-button-primary {
