@@ -1166,19 +1166,19 @@
 }
 .uikit-iso .uk-button-default {
   background-color: transparent;
-  color: #333;
+  color: #c4820e;
   border: 1px solid #e5e5e5;
 }
 .uikit-iso .uk-button-default:focus,
 .uikit-iso .uk-button-default:hover {
   background-color: transparent;
-  color: #c4820e;
+  color: #333;
   border-color: #b2b2b2;
 }
 .uikit-iso .uk-button-default.uk-active,
 .uikit-iso .uk-button-default:active {
   background-color: transparent;
-  color: #c4820e;
+  color: #333;
   border-color: #999;
 }
 .uikit-iso .uk-button-primary {
