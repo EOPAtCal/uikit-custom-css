@@ -1,11 +1,11 @@
 .uikit-iso .uk-button-default {
-    color: #c4820e!important;
+    color: #c4820!important;
 }
 
 .uikit-iso .uk-navbar-nav>li>a:active {
-    color: #0059af;
+    color: #0059af!important;
 }
 
 .uikit-iso .uk-navbar-nav>li.uk-active>a {
-    color: #0059af;
+    color: #0059af!important;
 }
